@@ -160,8 +160,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 📝 License
 
-Copyright © 2023 [Rakshit](https://github.com/Rakshit4045).<br />
-This project is [MIT](https://github.com/Rakshit4045/React-Redux-Shopping-Website/blob/main/LICENSE) licensed.
+Copyright © 2025 [Rakshit](https://github.com/Rakshit4045).<br />
+This project is [MIT](./LICENSE.txt) licensed.
 
 ## 🫡 Acknowledgments
 - Special thanks to the open-source community for their contributions to networking, encryption libraries, and tutorials.
